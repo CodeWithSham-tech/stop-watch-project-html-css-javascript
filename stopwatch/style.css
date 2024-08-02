@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    border: 2px solid white;
+    width:900px;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+body>div{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}.color{
+    font-size: 32px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    border: 2px solid white;
+    width: 300px;
+    background-color: blue;
+    border-radius: 20px;  
+}
+.main>h1{
+    font-size: 5em;
+    display: inline-block;
+    width: 200px;
+    color: white;
+    height: 100px;
+    border: 2px solid white;
+}
+.btn>button{
+    height: 80px;
+    width: 200px;
+    font-size: 16px;
+    color: black;
+    margin-top: 10px;
+}
+/* .btn>button:hover{
+        background-color: rgba(41, 226, 81, 0.63);
+} */
